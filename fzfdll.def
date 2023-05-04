@@ -1,0 +1,8 @@
+EXPORTS
+	fzf_make_default_slab
+  fzf_parse_pattern
+  fzf_get_score
+  fzf_get_positions
+  fzf_free_positions
+  fzf_free_pattern
+  fzf_free_slab
